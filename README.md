@@ -13,4 +13,4 @@ git clone https://github.com/D4RKH0R1Z0N/termux-docker.git && cd termux-docker &
 
 # Authors
 
-## D4RKH0R1Z0N ( (@D4RKH0R1Z0N)[https://github.com/D4RKH0R1Z0N] )
+## D4RKH0R1Z0N ([@D4RKH0R1Z0N](https://github.com/D4RKH0R1Z0N))
